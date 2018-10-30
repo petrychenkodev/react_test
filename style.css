@@ -1,0 +1,26 @@
+body{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+form{
+	margin-top: 10vh;
+	width: 200px;
+}
+input{
+	width: 100%;
+	margin: 10px 0;
+}
+.radio{
+	width: 20px;
+}
+select{
+	width: 100%;
+	margin: 10px 0;
+}
+textarea{
+	width: 100%;
+	margin: 10px 0;
+	max-width: 200px;
+	max-height: 50px;
+}
